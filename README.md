@@ -1,2 +1,2 @@
-# cek
-contoh program python menampilkan device laptop atau pc secara sederhana
+# Hello World
+contoh program python menampilkan device laptop atau pc secara sederhana..
